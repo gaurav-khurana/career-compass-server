@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "company_name": "EA Sports",
+    "job_position": "Software Engineer",
+    "date": "12/4/24",
+    "status": "Applied",
+    "role": "In your role as a Software Engineer, you will work with a team to build APIs and web applications to support teams within EAX. You will collaborate across departments ( Design, Engineering, QA, Project Management ) and other internal customers to align and implement. You will also be a regular consumer of data to analyze performance of our live service products and collaborate with our senior engineers to identify live service opportunities to create richer player experiences. You will report to the Engineering Manager as a core contributor to the EAX team based in EA Vancouver.",
+    "duties": "Build testable modular components/features and debug live issues. Collaborate with other developers to promote the culture of performance, maintainability, quality and automation in the team. Collaborate across departments ( Design, Engineering, QA, Project Management ) and other internal customers to align and implement. Learn new technologies and apply new techniques to improve existing solutions",
+    "requirements": "2+ years of experience in a technical role focused on development and operation of complex live services. Strong Javascript and Typescript experience. Familiarity with backend web technologies. Familiarity with databases. Experience with GraphQL, NodeJS, and Kubernetes is a plus. "
+  },
+  {
+    "id": 2,
+    "company_name": "Konrad",
+    "job_position": "Jr. Frontend web developer",
+    "date": "16/4/24",
+    "status": "Applied",
+    "role": "As an entry level Software Developer you'll be tasked with working on both mobile and web applications. Working within the software development team, your duties will require you to assist in the development of consumer and enterprise applications. This role is ideal for entry level developers who feel confident in their technical ability and want to be a part of the highly-skilled development team at Konrad.",
+    "duties": "Write maintainable, testable, and performant software in collaboration with our world class team. Participate in code review and performing extensive testing to ensure high quality software.Research new technology and tools and share those findings with the team.Communicate clearly and effectively with all members of our team",
+    "requirements": "Graduated from a Computer Science, Software Engineering, or similar program in a University or College. Strong command of important programming and computer science concepts. Ability to understand a web application and how it's built from end-to-end. Fundamental knowledge of core web principals (HTTP, the DOM, SSL, web servers. Fluency with databases (schema design, querying, optimization etc.). Great interpersonal skills - we work very closely together as a team and require a lot of communication. Proactive personality and a desire to deliver your best work."
+  },
+  {
+    "id": 3,
+    "company_name": "Blossom",
+    "job_position": "Front end developer",
+    "date": "1/5/24",
+    "status": "Applied",
+    "role": "Jr Front end developer",
+    "duties": "Jr Front end developer",
+    "requirements": "Jr Front end developer"
+  },
+  {
+    "id": 4,
+    "company_name": "Canonical",
+    "job_position": "Web front end engineer",
+    "date": "1/5/24",
+    "status": "Applied",
+    "role": "Jr Front end developer",
+    "duties": "Jr Front end developer",
+    "requirements": "Jr Front end developer"
+  },
+  {
+    "id": 5,
+    "company_name": "Planview",
+    "job_position": "Software Engineer I",
+    "date": "TBD",
+    "status": "Applied",
+    "role": "As a co-op student with Planview, you will get the opportunity to gain meaningful, paid work experience to support your academic learning. You will be supported in further developing your skills and have the chance to learn more about software development in a SaaS organization. We’re looking for  Software Engineer1  to join our team in  Vancouver, BC  for an  8-month  co-op term. In this role, you will work on a variety of development teams across our entire engineering group. Junior Software Engineers on the Copilot team are responsible for everything from product features, to connectors, web applications, to development tools. Software Engineer 1 join teams and take full responsibility for designing, implementing, and testing new features in our products.Students currently enrolled in an applicable co-op program at BCIT, UBC, UVic, or SFU will be considered for this role. Please note you must apply through your co-op office as well and provide your academic transcript with your application.",
+    "duties": "Developing, testing, and maintaining Planview products, development tools, and frameworks. Designing, developing, and testing applications in accordance with established standards. Participating in peer reviews of designs and code. Analyzing, reproducing, and resolving technical and application problems. Developing and maintaining our automation tools and various test scenarios. Performing software testing to ensure the quality and stability of features in development.",
+    "requirements": " Java development - this is our bread and butter AWS EKS, RDS, S3, and ElastiCache Object Oriented programming and design patterns JavaScript development: React or other leading frameworks Network communications development (e.g. REST, HTTP) Test Driven Design Scripting and web application development using Spring framework Good understanding of database query and database in general Knowledge of continuous delivery tooling, Git, GitHub Actions"
+  },
+  {
+    "id": 6,
+    "company_name": "BazaarVoice",
+    "job_position": "Front-end Developer Level I",
+    "date": "2024-05-01",
+    "status": "Applied",
+    "role": "The Front End Developer is responsible for the launching of new client integrations as well as building campaigns for our clients, this includes the initial set up and ongoing maintenance of all services. During set up, the Front End Developer will design and code scripts used for integration and build client facing campaigns using our new engine. Maintenance includes patch fixing integrations and reading/rewriting legacy code.",
+    "duties": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment ",
+    "requirements": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment "
+  },
+  {
+    "id": 7,
+    "company_name": "Matricia",
+    "job_position": "Front-end Developer",
+    "date": "2024-05-02",
+    "status": "Rejected",
+    "role": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment ",
+    "duties": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment ",
+    "requirements": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment "
+  },
+  {
+    "id": 8,
+    "company_name": "Workify",
+    "job_position": "Web Developer",
+    "date": "2024-05-16",
+    "status": "Applied",
+    "role": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment ",
+    "duties": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment ",
+    "requirements": "Bachelor’s in Computer Science, or a related field (or equivalent job experience)\n1-3 years experience with JavaScript, TypeScript, HTML and CSS\nExperience in basic web design principles\nUnderstanding of server-side web apps in any language\nAdvanced analytical and problem-solving skills\nMust be fluent in English and possess advanced written and verbal communication capabilities along with exceptional active listening skills\nAbility to prioritize and manage multiple tasks in a dynamic environment "
+  },
+  {
+    "id": 9,
+    "company_name": "Astronomer",
+    "job_position": "Software Engineer",
+    "date": "2024-05-12",
+    "status": "Applied",
+    "role": "we are seeking a talented Software Engineer to work on our Product-Led Growth initiative, a critical component of our expansion strategy. You will play a pivotal role in driving the success of our platform. Collaborating closely with our applications team and product team, you will develop an intuitive onboarding and self-service experience for our users. Your contributions will directly impact our ability to scale and deliver exceptional value to our customers.",
+    "duties": "Contribute to the development of the Product-Led Growth initiative, focusing on enhancing the user experience and driving business growth.\n\nCollaborate with cross-functional teams to understand user requirements and implement intuitive onboarding processes and self-service features to streamline user interactions with our platform.\n\nContinuously evaluate and improve the effectiveness of our product-led approach through data-driven insights and user feedback.\n\nContribute to the overall platform usability, reliability, and scalability.",
+    "requirements": "A strong focus on the end-user experience.\n\nStrong written and verbal communication skills, with the ability to find middle ground.\n\nExperience of Golang and TypeScript.\n\nExperience with software development best practices, such as code reviews, testing, CI/CD, version control, automation and debugging."
+  },
+  {
+    "id": 10,
+    "company_name": "Canonical",
+    "job_position": "Web Front-end Engineer",
+    "date": "2024-05-15",
+    "status": "Rejected",
+    "role": "Didnt getNewJob",
+    "duties": "Didnt getNewJob",
+    "requirements": "Didnt getNewJob"
+  },
+  {
+    "id": 11,
+    "company_name": "PlayHT",
+    "job_position": "Frontend Engineer",
+    "date": "2024-05-05",
+    "status": "Applied",
+    "role": "We are looking for Full-time Fullstack Engineers to join us to build the platform that will empower millions of creators to use the power of generative AI to create content of all types.\nJoin us as a founding engineer and help build the future of media and content creation.",
+    "duties": "To build the platform that will empower millions of creators to use the power of generative AI to create content of all types.\n\nJoin us as a founding engineer and help build the future of media and content creation",
+    "requirements": "The perfect candidate is a reliable autonomous engineer with a growth mindset and experience in Javascript, Reactjs, and Nodejs, preferably Firebase, Expressjs, and AWS knowledge."
+  }
+]
