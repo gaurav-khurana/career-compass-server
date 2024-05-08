@@ -1,4 +1,4 @@
-import express, { Request, Response } from "express";
+import express, { NextFunction, Request, Response } from "express";
 import jobsRouter from "./routes/route-jobs";
 import jwt, { Secret, JwtPayload } from "jsonwebtoken";
 import usersData from "./data/users.json";
@@ -13,12 +13,31 @@ dotenv.config();
 // const PORT: number = 8080;
 const { PORT, JWT_SECRET_KEY } = process.env;
 console.log(JWT_SECRET_KEY);
-const SECRET_KEY: Secret = "7c8f30e5-4d22-4b85-8b57-2d7f6f6287a1";
+const SECRET_KEY: Secret = JWT_SECRET_KEY || "careercompasssecretkey";
 // middleware for cors
 app.use(cors());
 
 // middleware for json
 app.use(express.json());
+
+// middleware to authenticate token
+function authenticateToken(req: Request, res: Response, next: NextFunction) {
+  const token: string =
+    req.headers.authorization?.split(" ")[1] || "Missing token";
+  console.log(token);
+
+  if (!token) {
+    res.status(401).json({ message: "No token provided. Auth Failed" });
+  }
+
+  jwt.verify(token, SECRET_KEY, (error, decoded) => {
+    if (error) {
+      return res.status(498).json({ message: "Token validation Failed" });
+    }
+    // req.body = decoded;
+    next();
+  });
+}
 
 // Login route
 app.post("/login", (req: Request, res: Response) => {
@@ -50,7 +69,7 @@ app.post("/login", (req: Request, res: Response) => {
 });
 
 // base home route & redirection with router
-app.use("/", jobsRouter);
+app.use("/", authenticateToken, jobsRouter);
 
 // to chk if server running
 // app.get("/", (req: Request, res: Response) =>
